@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Farid and I'm a Front-End Developer from Lahore, Pakistan.</p>
+<p align="left">My name is Farid ud din and I'm a Web Developer from Lahore, Pakistan.</p>
 
 ###
 
