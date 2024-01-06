@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning MERN Stack development<br>🎯 Goals: To become a Full Stack Developer<br>🎲 Fun fact: I'm a Doctor and a chef too 😋</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently into MERN Stack Development<br>🎯 Goals: To become a Full Stack Developer</p>
 
 ###
 
